@@ -1,0 +1,12 @@
+﻿  Data.cpp
+C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\Data.cpp(84,23): warning C4552: "-": el resultado de la expresión no se usa
+  main.cpp
+C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\main.cpp(176,33): warning C4805: '==': combinación no segura del tipo 'bool' y el tipo 'int' en la operación
+C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\main.cpp(253,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\main.cpp(257,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\main.cpp(261,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\main.cpp(265,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  operacions_data.cpp
+  Generando código...
+C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\Data.cpp(24): warning C4715: 'getTraspasYear': no todas las rutas de acceso de control devuelven un valor
+  Exercici5.vcxproj -> C:\Users\pau18\Desktop\MP teoria\ejercicios tema1\Exercici5\Debug\Exercici5.exe

@@ -1,0 +1,1 @@
+en la linia 87 del main hay un float que no se inicializa a ningun valor y en la linea 88 se usa para nuestro test. No tiene sentido y da simepre valores inocherente.
